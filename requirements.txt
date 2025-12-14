@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+pretty_midi
+miditok
+torch
+transformers
+tqdm
+matplotlib

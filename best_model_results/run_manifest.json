@@ -1,0 +1,609 @@
+{
+  "split_file": "/oscar/home/mlu85/DL-Practice/dataset/test_data.pt",
+  "paired_dir": "/oscar/home/mlu85/DL-Practice/dataset/paired_train",
+  "output_dir": "/oscar/home/mlu85/DL-Practice/best_model_results",
+  "num_unique_sources_selected": 100,
+  "include_transposed": false,
+  "runs": [
+    {
+      "source_file": "002_002_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/002_002_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_002_002_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "003_003_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/003_003_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_003_003_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "004_004_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/004_004_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_004_004_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "005_005_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/005_005_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_005_005_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "006_006_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/006_006_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_006_006_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "007_007_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/007_007_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_007_007_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "008_008_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/008_008_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_008_008_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "009_009_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/009_009_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_009_009_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "011_011_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/011_011_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_011_011_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "013_013_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/013_013_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_013_013_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "014_014_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/014_014_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_014_014_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "016_016_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/016_016_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_016_016_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "018_018_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/018_018_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_018_018_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "022_022_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/022_022_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_022_022_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "024_024_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/024_024_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_024_024_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "027_027_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/027_027_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_027_027_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "028_028_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/028_028_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_028_028_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "031_031_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/031_031_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_031_031_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "033_033_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/033_033_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_033_033_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "034_034_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/034_034_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_034_034_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "035_035_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/035_035_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_035_035_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "036_036_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/036_036_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_036_036_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "038_038_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/038_038_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_038_038_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "039_039_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/039_039_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_039_039_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "040_040_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/040_040_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_040_040_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "041_041_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/041_041_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_041_041_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "042_042_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/042_042_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_042_042_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "043_043_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/043_043_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_043_043_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "044_044_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/044_044_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_044_044_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "045_045_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/045_045_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_045_045_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "046_046_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/046_046_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_046_046_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "047_047_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/047_047_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_047_047_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "048_048_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/048_048_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_048_048_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "049_049_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/049_049_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_049_049_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "050_050_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/050_050_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_050_050_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "051_051_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/051_051_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_051_051_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "053_053_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/053_053_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_053_053_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "056_056_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/056_056_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_056_056_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "057_057_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/057_057_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_057_057_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "059_059_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/059_059_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_059_059_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "063_063_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/063_063_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_063_063_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "064_064_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/064_064_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_064_064_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "065_065_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/065_065_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_065_065_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "066_066_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/066_066_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_066_066_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "067_067_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/067_067_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_067_067_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "068_068_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/068_068_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_068_068_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "070_070_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/070_070_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_070_070_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "071_071_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/071_071_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_071_071_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "073_073_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/073_073_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_073_073_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "074_074_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/074_074_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_074_074_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "076_076_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/076_076_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_076_076_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "077_077_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/077_077_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_077_077_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "078_078_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/078_078_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_078_078_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "079_079_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/079_079_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_079_079_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "080_080_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/080_080_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_080_080_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "082_082_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/082_082_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_082_082_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "083_083_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/083_083_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_083_083_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "085_085_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/085_085_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_085_085_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "086_086_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/086_086_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_086_086_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "088_088_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/088_088_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_088_088_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "089_089_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/089_089_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_089_089_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "090_090_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/090_090_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_090_090_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "091_091_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/091_091_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_091_091_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "092_092_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/092_092_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_092_092_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "093_093_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/093_093_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_093_093_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "094_094_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/094_094_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_094_094_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "096_096_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/096_096_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_096_096_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "097_097_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/097_097_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_097_097_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "099_099_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/099_099_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_099_099_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "100_100_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/100_100_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_100_100_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "101_101_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/101_101_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_101_101_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "103_103_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/103_103_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_103_103_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "104_104_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/104_104_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_104_104_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "105_105_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/105_105_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_105_105_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "106_106_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/106_106_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_106_106_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "109_109_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/109_109_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_109_109_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "110_110_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/110_110_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_110_110_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "112_112_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/112_112_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_112_112_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "114_114_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/114_114_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_114_114_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "115_115_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/115_115_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_115_115_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "116_116_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/116_116_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_116_116_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "118_118_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/118_118_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_118_118_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "121_121_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/121_121_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_121_121_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "122_122_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/122_122_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_122_122_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "123_123_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/123_123_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_123_123_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "124_124_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/124_124_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_124_124_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "125_125_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/125_125_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_125_125_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "126_126_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/126_126_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_126_126_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "127_127_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/127_127_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_127_127_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "128_128_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/128_128_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_128_128_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "129_129_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/129_129_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_129_129_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "130_130_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/130_130_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_130_130_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "131_131_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/131_131_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_131_131_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "133_133_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/133_133_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_133_133_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "134_134_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/134_134_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_134_134_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "135_135_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/135_135_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_135_135_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "137_137_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/137_137_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_137_137_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "138_138_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/138_138_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_138_138_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "139_139_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/139_139_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_139_139_input.mid",
+      "success": true
+    },
+    {
+      "source_file": "140_140_input",
+      "input_path": "/oscar/home/mlu85/DL-Practice/dataset/paired_train/140_140_input.mid",
+      "output_path": "/oscar/home/mlu85/DL-Practice/best_model_results/cleaned_140_140_input.mid",
+      "success": true
+    }
+  ]
+}
